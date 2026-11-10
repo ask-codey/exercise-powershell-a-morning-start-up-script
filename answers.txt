@@ -1,0 +1,16 @@
+# Exercise: A Morning Start-Up Script
+#
+# Answer each question on its numbered line, after the ")". Write only the command, like the example.
+#
+# Example: which command shows the folder you're in?
+# 0) Get-Location
+
+# 1. You're in this exercise's folder. Which line runs morning.ps1?
+1)
+
+# 2. Which line adds the folder $HOME\Scripts to PATH, for this window only, keeping every folder already there?
+2)
+
+# 3. A desktop shortcut should run C:\Users\Sam\Scripts\morning.ps1 in PowerShell 7 and keep the window open
+#    when the script ends. What is the shortcut's target? Start it with pwsh.exe.
+3)
